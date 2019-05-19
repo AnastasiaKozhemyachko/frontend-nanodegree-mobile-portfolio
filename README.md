@@ -1,4 +1,4 @@
-[https://AnastasiaKozhemyachko.github.io/frontend-nanodegree-mobile-portfolio/](Update files)
+[https://AnastasiaKozhemyachko.github.io/frontend-nanodegree-mobile-portfolio/](https://AnastasiaKozhemyachko.github.io/frontend-nanodegree-mobile-portfolio/)
 
 ## Website Performance Optimization portfolio project
 
